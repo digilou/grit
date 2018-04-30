@@ -6,6 +6,25 @@ This list is not meant to be exclusive. These are distinct resources (books, peo
 - 100 Days of Code by Alexander Kallaway
 - Grit by Angela Duckworth
 
+## Cheerleaders and Mentors
+- Deborah Edwards-Onoro
+- Daniel Cornwall
+- Ken Howard
+- Toni Wells
+- Jeanine Sotorwood
+- GWG Tech Makers
+- Women Who Code
+- Karl Wood
+- Kurt Savikko
+- Bridgett Kokoski
+- Colleen Schnettler
+- Colin Osterhout
+- Michael Schoefeld
+- Angela Andrews (Scooter)
+- Caleb Wells
+- Jeff Mills
+- Elizabeth Reiher
+
 ## Resources That Pushed Me Along
 
 ### Coding Practice
