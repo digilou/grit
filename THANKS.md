@@ -19,7 +19,7 @@ This list is not meant to be exclusive. These are distinct resources (books, peo
 - Bridgett Kokoski
 - Colleen Schnettler
 - Colin Osterhout
-- Michael Schoefeld
+- Michael Schofield
 - Angela Andrews (Scooter)
 - Caleb Wells
 - Jeff Mills

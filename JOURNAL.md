@@ -10,5 +10,15 @@ Initiated "Grit":
 - Began documenting weaknesses with starting points.
 
 ## 2018-04-30 [Day 1], 2 hour
-Udacity Mobile Web Specialist nanodegree:
+Udacity Mobile Web Specialist (MWS) nanodegree:
 - mobile-first media queries with `display: flex`, `order`, and an off-canvas menu (CSS, JS)
+
+## 2018-05-02 [Day 2], 30 minutes
+Scalable and Modular Architecture for CSS meets Women Who Code:
+- grasping the modular mindset to refactor CSS of WWC site
+- started evaluating patterns/modules for refactor
+
+## 2018-05-03 [Day 3], 45 minutes
+CSS (WWC):
+- `transform: translate` to move box across X or Y coords
+- specificity to counteract specificity (`padding-bottom`) 
