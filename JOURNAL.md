@@ -21,4 +21,8 @@ Scalable and Modular Architecture for CSS meets Women Who Code:
 ## 2018-05-03 [Day 3], 45 minutes
 CSS (WWC):
 - `transform: translate` to move box across X or Y coords
-- specificity to counteract specificity (`padding-bottom`) 
+- specificity to counteract specificity (`padding-bottom`)
+
+## 2018-05-04 [Day 4], 1 hr
+Udacity MWS nanodegree:
+- responsive tables
