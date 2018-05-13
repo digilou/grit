@@ -25,4 +25,8 @@ CSS (WWC):
 
 ## 2018-05-04 [Day 4], 1 hr
 Udacity MWS nanodegree:
-- responsive tables
+- [responsive tables](https://codepen.io/digilou/pen/xjLyjO)
+
+## 2018-05-12 [Day 5], 1 hr
+Udacity MWS nanodegree:
+- responsive images
