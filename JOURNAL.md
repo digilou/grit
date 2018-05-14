@@ -30,3 +30,8 @@ Udacity MWS nanodegree:
 ## 2018-05-12 [Day 5], 1 hr
 Udacity MWS nanodegree:
 - responsive images
+
+## 2018-05-13 [Day 6], 1 hr
+
+Udacity MWS nanodegree:
+- responsive blog project
