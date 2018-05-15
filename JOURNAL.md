@@ -34,4 +34,11 @@ Udacity MWS nanodegree:
 ## 2018-05-13 [Day 6], 1 hr
 
 Udacity MWS nanodegree:
-- responsive blog project
+- responsive blog project, contraining images within elements & adding a `max-width` for larger viewports
+
+## 2018-05-14 [Day 7], 1hr
+
+WWC:
+- CSS updates to make styling jive with updated accessible HTML semantics
+Udacity MWS nanodegree:
+- Setting up Grunt and configuring for image processing
