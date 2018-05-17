@@ -7,15 +7,16 @@
 
 ### HTML/CSS
 -[ ] <em>see Build</em>
+-[ ] [CodePen Challenge: HTML Buddies](https://codepen.io/challenges/2018/may/)
 
 ### Accessibility
--[ ]
+-[ ] [Design & Develop Accessibility](https://www.w3.org/WAI/design-develop/)
 
 ### Design, UI, UX
 -[ ]
 
 ### JavaScript
--[ ] [Eloquent JavaScript]()
+-[ ] [Eloquent JavaScript](https://eloquentjavascript.net)
 -[ ] [Odin Project](https://www.theodinproject.com)
 -[ ] [FreeCodeCamp](https://www.freecodecamp.org)
 
