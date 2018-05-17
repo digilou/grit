@@ -49,8 +49,11 @@ Udacity MWS nanodegree:
 Fun (CodePen HTML Challenge):
 - `<details>` and `<summary>` exploration - [Space Quest](https://codepen.io/digilou/full/rvZWYV/)
 
-## 2018-05-16 [Day 9], 1 hr
+## 2018-05-16 [Day 9], 2 hr
 Fun (CodePen HTML Challenge):
 - `<details>` and `<summary>` exploration - [Space Quest](https://codepen.io/digilou/full/rvZWYV/)
 Udacity MWS nanodegree:
-- images with markup
+- using images with markup vs. true text
+- icon fonts
+Eloquent JavaScript 3rd ed., Intro & Ch. 1:
+- values, types, and operators
