@@ -57,3 +57,12 @@ Udacity MWS nanodegree:
 - icon fonts
 Eloquent JavaScript 3rd ed., Intro & Ch. 1:
 - values, types, and operators
+
+## 2018-05-17 [Day 10], 1 hr 30 min.
+Global Accessibility Awareness Day:
+- Mac zoom
+- Maximum contrast and invert colors (Mac & iPhone)
+- VoiceOver (Mac & iPhone)
+Udacity MWS nanodegree program
+- unicode and icon font project
+- `srcset` and `sizes` attributes on `img`
