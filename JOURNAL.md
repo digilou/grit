@@ -66,3 +66,15 @@ Global Accessibility Awareness Day:
 Udacity MWS nanodegree program
 - unicode and icon font project
 - `srcset` and `sizes` attributes on `img`
+
+## 2018-05-19 [Day 11], 1 hr
+Web application UX:
+- Active Admin and UX
+
+## 2018-05-20 [Day 12], 1 hr
+Fun (CodePen Buddies Challenge):
+- `<del>` and `<ins>` exploration - [Letter to Mom](https://codepen.io/digilou/pen/PeVGBv)
+
+## 2018-05-22 [Day 13], 1 hr
+Fun (CodePen Buddies Challenge):
+- `<sub>` and `<sup>` exploration - [Frappe Recipe](https://codepen.io/digilou/pen/ELJXZG)
