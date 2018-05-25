@@ -50,7 +50,7 @@ Fun (CodePen HTML Challenge):
 - `<details>` and `<summary>` exploration - [Space Quest](https://codepen.io/digilou/full/rvZWYV/)
 
 ## 2018-05-16 [Day 9], 2 hr
-Fun (CodePen HTML Challenge):
+HTML Fun (CodePen HTML Challenge):
 - `<details>` and `<summary>` exploration - [Space Quest](https://codepen.io/digilou/full/rvZWYV/)
 Udacity MWS nanodegree:
 - using images with markup vs. true text
@@ -72,9 +72,18 @@ Web application UX:
 - Active Admin and UX
 
 ## 2018-05-20 [Day 12], 1 hr
-Fun (CodePen Buddies Challenge):
+HTML Fun (CodePen Buddies Challenge):
 - `<del>` and `<ins>` exploration - [Letter to Mom](https://codepen.io/digilou/pen/PeVGBv)
 
 ## 2018-05-22 [Day 13], 1 hr
-Fun (CodePen Buddies Challenge):
+HTML Fun (CodePen Buddies Challenge):
 - `<sub>` and `<sup>` exploration - [Frappe Recipe](https://codepen.io/digilou/pen/ELJXZG)
+
+## 2018-05-23 [Day 14], 1 hr
+Udacity MWS nanodegree:
+- `srcset` and `sizes` attributes on `img`
+- `<picture>` and [PictureFill](https://scottjehl.github.io/picturefill/)
+
+## 2018-05-24 [Day 15], 1 hr
+Udacity MWS nanodegree:
+- A11y
