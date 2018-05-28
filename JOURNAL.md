@@ -87,3 +87,9 @@ Udacity MWS nanodegree:
 ## 2018-05-24 [Day 15], 1 hr
 Udacity MWS nanodegree:
 - A11y
+
+## 2018-05-27 [Day 16] 1 hr 35 min
+Udacity MWS nanodegree:
+- A11y concerning focus and [ARIA 1.1 design patterns/widgets](https://www.w3.org/TR/wai-aria-practices-1.1/)
+Side project:
+- Hack-y CSS to overwrite Rails Active Admin styles
