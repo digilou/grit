@@ -93,3 +93,12 @@ Udacity MWS nanodegree:
 - A11y concerning focus and [ARIA 1.1 design patterns/widgets](https://www.w3.org/TR/wai-aria-practices-1.1/)
 Side project:
 - Hack-y CSS to overwrite Rails Active Admin styles
+
+## 2018-05-29 [Day 17] 1 hr
+Udacity MWS nanodegree:
+- Organized myself to work on completing this course on time
+
+## 2018-05-31 [Day 18] 1 hr
+Udacity MWS nanodegree:
+- a11y: focus and keyboard traps
+- a11y: semantic HTML wins
