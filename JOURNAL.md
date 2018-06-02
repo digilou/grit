@@ -102,3 +102,8 @@ Udacity MWS nanodegree:
 Udacity MWS nanodegree:
 - a11y: focus and keyboard traps
 - a11y: semantic HTML wins
+
+## 2018-06-01 [Day 19] 1 hr
+Udacity MWS nanodegree:
+- a11y: navigating with VoiceOver
+- a11y: intro to ARIA
