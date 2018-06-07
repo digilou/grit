@@ -107,3 +107,13 @@ Udacity MWS nanodegree:
 Udacity MWS nanodegree:
 - a11y: navigating with VoiceOver
 - a11y: intro to ARIA
+
+## 2018-06-06 [Day 20] 2 hr
+Udacity MWS nanodegree:
+- a11y: design effects on a11y
+- project 1: mobile-first design (responsive)
+
+## 2018-06-07 [Day 21] 30 min
+Cloud Guru: AWS Cloud Practitioner
+- cloud computing
+- setting up AWS
